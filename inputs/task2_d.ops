@@ -1,0 +1,4 @@
+write the operations file to produce the percentage of
+the population below the poverty level in the counties for which the selected ethnicity is < 40 percent.
+filter-lt:Ethnicities.White Alone:40
+percent:Income.Persons Below Poverty Level
